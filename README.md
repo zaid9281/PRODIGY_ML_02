@@ -10,7 +10,7 @@ This project performs customer segmentation using K-Means clustering on retail c
   - K-Means clustering implementation
   - Visualization of results
   - Business interpretation
-- `task1_data.xlsx` –Original dataset containing:
+- `task2_data.xlsx` –Original dataset containing:
   - Customer demographics (Age, Gender)
   - Financial features (Annual Income)
   - Behavioral metric (Spending Score)
