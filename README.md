@@ -44,7 +44,7 @@ This analysis helps retailers:
 
 
 ## Dataset Description
-The dataset `task2_data.xlsx` contains:
+The dataset `Mall_Customers.xlsx` contains:
 - **200 records** of customer information
 - **Key Features**:
   - `CustomerID`: Unique identifier
